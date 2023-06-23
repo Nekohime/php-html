@@ -1,0 +1,11 @@
+{
+    "name": "nekohime/php-html",
+    "type": "library",
+    "license": "CC0-1.0",
+    "autoload": {
+        "psr-4": {
+            "nekohime\\HTML\\": "src/"
+        }
+    },
+    "require": {}
+}
