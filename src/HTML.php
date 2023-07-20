@@ -1,5 +1,7 @@
 <?php
-namespace nekohime\HTML;
+declare(strict_types=1);
+
+namespace Nekohime\Html;
 
 class HTML {
 
